@@ -17,12 +17,11 @@ description: The description of the service
 ```
 
 ## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
+View this jekyll theme in action [here](http://baiyungroup.github.io/landing-page-theme/)
 
 ## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/baiyungroup/landing-page-theme/master/img/screenshot.png)
 
 ===
 
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
+For more Jekyll details, Read [documentation](http://jekyllrb.com/). This Jekyll theme is forked from [Landing-Page Jekyll theme](https://github.com/swcool/landing-page-theme).
